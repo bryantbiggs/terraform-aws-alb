@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [10.5.1](https://github.com/terraform-aws-modules/terraform-aws-alb/compare/v10.5.0...v10.5.1) (2026-08-26)
+
+### Bug Fixes
+
+* Update GitHub Actions and pre-commit hook versions ([#436](https://github.com/terraform-aws-modules/terraform-aws-alb/issues/436)) ([6e329a4](https://github.com/terraform-aws-modules/terraform-aws-alb/commit/6e329a47bfd204ac64d1a5df66775d602aec7c9b))
+
 ## [10.5.0](https://github.com/terraform-aws-modules/terraform-aws-alb/compare/v10.4.0...v10.5.0) (2026-01-08)
 
 ### Features
